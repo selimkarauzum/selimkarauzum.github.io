@@ -35,11 +35,10 @@
 2017 senesinde Kıbrıs Odtü’de düzenlenen Hackathon yarışmasına katılım sağlayıp ilk 6 ya girdik. Almış olduğum siber güvenlik kursunda güvenlik amacıyla kullanılan araçları ve kullanımlarını nasıl olması gerektiğini uygulamalı ve sonra kendim ciddi testller yaparak çok yönlü öğrendim. Aynı şekilde sanal ortamlar oluşturarak siber güvenlikte çok yönlü testler yapmaktayım. Oluşturduğum bu sanal ortamlarla bir yandan da sistem ve network tarafında da kendimi geliştirmekteyim.
             </p>
             <h2>Deneyimler</h2>
-            <p>Swordsec - Cyber Security Engineer</p>
+            <p>ŞekerBank T.A.Ş. (2020-2022)</p>
             <p>Portakal Teknoloji –Ankara (08/2017-09/2017)</p>
             <p>Drogsan İlaç Sanayi A.Ş.-Ankara (07/2011-08/2011)</p>
             <p>Man Türkiye A.Ş.- Ankara (08/2008-04/2009)</p>
-
             <h2>Yetkinlikler</h2>
             <p>
             Diğer: Microsoft Office, Adobe Photoshop, Visual Studio 2008,2010, Devc, Arduino, Processing Nmap, Ettercap, Metasploit, Hydra, Wireshark
