@@ -19,14 +19,13 @@
 <body>
     <div class="grid-2">
         <div class="section-1">
-            <img src="pp.jpg" class="avatar"></img>
+            <img src="login.jpg" class="avatar"></img>
             <h2>Selim KARAÜZÜM</h2>
             <p>Cyber Security Engineer</p>
             <p>Ankara,Turkey.</p>
             <a href="https://www.linkedin.com/in/selimkarauzum/"><i class="fab fa-linkedin"></i></a>
             <a href="https://github.com/selimkarauzum"><i class="fab fa-github"></i></a>
             <a href="https://www.instagram.com/selimkarauzum/"><i class="fab fa-instagram"></i></a>
-            <img src="profil.jpg" width="350" height="67" ></img>
         </div>
 
         <div class="section-2">
