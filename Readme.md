@@ -26,8 +26,7 @@
             <a href="https://www.linkedin.com/in/selimkarauzum/"><i class="fab fa-linkedin"></i></a>
             <a href="https://github.com/selimkarauzum"><i class="fab fa-github"></i></a>
             <a href="https://www.instagram.com/selimkarauzum/"><i class="fab fa-instagram"></i></a>
-            <br></br>
-            <img src="WhatsApp Image 2020-08-14 at 02.44.44.png" width="350" height="67" ></img>
+            <img src="profil.jpg" width="350" height="67" ></img>
         </div>
 
         <div class="section-2">
