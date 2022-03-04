@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Slim Karaüzüm</title>
+<title>Selim KARAÜZÜM</title>
 <link href="css-5.css" rel="stylesheet" />
 <meta charset="utf-8">
 </head>
@@ -19,7 +19,6 @@
 <article>
 <h1>Başlık1</h1>
 <p>
-Video, size görüşünüzü kanıtlamak için güçlü bir yol sunar. Çevrimiçi Video'ya tıkladığınızda, eklemek istediğiniz videoya ait ekleme kodunu yapıştırabilirsiniz. Belgenize en iyi uyan videoyu çevrimiçi olarak aramak için bir anahtar sözcük de yazabilirsiniz. Word, belgenizin profesyonelce üretilmiş görünmesini sağlamak için birbirini tamamlayan üst bilgi, alt bilgi, kapak sayfası ve metin kutusu tasarımları sağlar. Örneğin, birbiriyle uyumlu bir kapak sayfası, başlık ve kenar çubuğu ekleyebilirsiniz. Ekle'ye tıklayın ve ardından farklı galerilerden eklemek istediğiniz öğeleri seçin.
  
 </p>
 </article>
@@ -29,18 +28,18 @@ Video, size görüşünüzü kanıtlamak için güçlü bir yol sunar. Çevrimi�
 <figcaption>www.yazilimkodlama.com</figcaption>
 </figure>
 <p>
-Video, size görüşünüzü kanıtlamak için güçlü bir yol sunar. Çevrimiçi Video'ya tıkladığınızda, eklemek istediğiniz videoya ait ekleme kodunu yapıştırabilirsiniz. Belgenize en iyi uyan videoyu çevrimiçi olarak aramak için bir anahtar sözcük de yazabilirsiniz.
+
 </p>
 </aside>
 <section>
 <h1>Başlık</h1>
 <p>
-Video, size görüşünüzü kanıtlamak için güçlü bir yol sunar. Çevrimiçi Video'ya tıkladığınızda, eklemek istediğiniz videoya ait ekleme kodunu yapıştırabilirsiniz. Belgenize en iyi uyan videoyu çevrimiçi olarak aramak için bir anahtar sözcük de yazabilirsiniz.
+
 </p>
 </section>
 <footer>
 <hr />
-Tüm hakları saklıdır.
+
 </footer>
 </body>
 </html>
