@@ -49,7 +49,7 @@
 <!--            <a href="#">Project 3</a>-->
 <!--            <a href="#">Project 4</a>-->
 <!--            <a href="#">Project 5</a>-->
-            <h2>Contact</h2>
+            <h2>İletişim</h2>
             <p>selim.karauzum@gmail.com</p>
         </div>
     </div>
