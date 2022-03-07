@@ -18,7 +18,7 @@
 <body>
     <div class="grid-2">
         <div class="section-1">
-            <img src="profil-3.png" class="avatar">
+            <img src="profil-2.png" class="avatar">
             <h2>Selim KARAÜZÜM</h2>
             <p>Cyber Security Engineer</p>
             <p>Ankara,Turkey.</p>
